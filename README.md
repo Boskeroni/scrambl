@@ -1,5 +1,4 @@
 # scrambled
 
-a quick solver for the countdown word game.
-the words list is a bit shit but still, take it out on english.
-made in rust, and uses huffman trees to speed up wordsearch.
+A quick solver for the countdown word game. Contains both the brute force initial attempt (still somewhat optimised) and the Huffman Tree version. Mostly just wanted to get used to 
+working with Trees with recursion. The word list isn't the best, and contains some weird words, but it works fine for all simple words. Programmed in Rust.
