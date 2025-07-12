@@ -58,7 +58,7 @@ pub fn check_singular_word(master_hash: &LetterTally, file: BufReader<File>) -> 
     longest
 }
 
-pub fn _get_multiple_words(
+pub fn get_multiple_words(
     master_hash: &LetterTally, 
     max_count: Option<i32>, 
     min_length: Option<i32>, 
