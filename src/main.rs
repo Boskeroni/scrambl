@@ -1,6 +1,6 @@
 use tree::{find_word, generate_tree};
 use std::env;
-use std::io::{self, BufReader};
+use std::io::BufReader;
 use std::fs::File;
 use std::time::Instant;
 
